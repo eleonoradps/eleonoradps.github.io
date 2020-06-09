@@ -11,7 +11,7 @@ J’ai instancié ces variables :
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt4.PNG)
  
-Puis je les ai utilisés dans une fonction pour dessiner les salles :
+Puis je les ai utilisées dans une fonction pour dessiner les salles :
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt3.PNG)
  
@@ -33,7 +33,7 @@ Pour ensuite donner ça :
  
 ### Lier les salles à l’aide de couloirs :
 
-Je devais maintenant connecter les salles entres elles, et après avoir fait le code, les couloirs ne s’affichaient pas. J’essayais de créer des couloirs entre des Leafs qui n’ont pas d’enfants, ce qui faisait que ma fonction ne s’exécutait pas. Le problème a été réglé en ajoutant une condition qui lient les salles si ce ne sont pas des Leafs.
+Je devais maintenant connecter les salles entre elles, et après avoir fait le code, les couloirs ne s’affichaient pas. J’essayais de créer des couloirs entre des Leafs qui n’ont pas d’enfants, ce qui faisait que ma fonction ne s’exécutait pas. Le problème a été réglé en ajoutant une condition qui lient les salles si ce ne sont pas des Leafs.
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt5.PNG)
 
