@@ -6,7 +6,7 @@
 Lors d’un projet scolaire à la SAE pour le module GPR4400.2, nous devions, par équipe de 2 personnes, implémenter une IA et une génération procédurale. Je me suis occupé de cette dernière en utilisant un algorithme BSP pour faire une maison qui est différente à chaque nouvelle partie. J’ai suivi ce tutoriel tout en l’adaptant à notre jeu : [http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/](http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/)
 
 ### Créer les salles :
-Dans le tutoriel, le bsp était généré sans tilemap et s’affichait ensuite sur Unity. Pour notre jeu, il fallait que j’utilise deux tilemaps : une pour le sol (avec les couloirs) et une autre pour les murs.
+Dans le tutoriel, le BSP était généré sans tilemap et s’affichait ensuite sur Unity. Pour notre jeu, il fallait que j’utilise deux tilemaps : une pour le sol (avec les couloirs) et une autre pour les murs.
 J’ai instancié ces variables :
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt4.PNG)
@@ -45,7 +45,7 @@ Mon autre problème était l’affichage des murs. En premier lieu, j’avais fa
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt8.PNG)
  
-Après avoir mis des Debug.Log, le problème était qu’on ne connaissait pas les positions des subRoom.Room.x et subRoom.Room.y. Je les ai ensuite remplacés par boardRows et boardColumns, qui symbolise la taille du rectangle de mon BSP :
+Après avoir mis des Debug.Log, le problème était qu’on ne connaissait pas les positions des subRoom.Room.x et subRoom.Room.y. Je les ai ensuite remplacés par boardRows et boardColumns, qui symbolise la taille du rectangle du BSP :
 
 ![](https://eleonoradps.github.io/BlogPostTechnique/screen.PNG)
  
