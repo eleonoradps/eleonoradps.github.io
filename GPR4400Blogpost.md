@@ -41,7 +41,6 @@ Après ces modifications, le BSP s’affichait ensuite comme ceci :
  
 Nous avons donc maintenant une maison qui se génère procéduralement, avec deux tilemaps.
  
-Liens :
+### Liens :
 Lien git du projet : https://github.com/eleonoradps/ItsMine
- Script du BSP : https://github.com/eleonoradps/ItsMine/blob/master/Assets/Scripts/World/BSP.cs
 
