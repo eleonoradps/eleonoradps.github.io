@@ -3,7 +3,7 @@
 
 ### Introduction :
 
-Lors d’un projet scolaire à la SAE pour le module GPR4400.2, nous devions, par équipe de 2 personnes, implémenter une IA et une génération procédurale. Je me suis occupé de cette dernière en utilisant un algorithme BSP pour faire une maison qui est différente à chaque nouvelle partie. J’ai suivi ce tutoriel tout en l’adaptant à notre jeu : http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/
+Lors d’un projet scolaire à la SAE pour le module GPR4400.2, nous devions, par équipe de 2 personnes, implémenter une IA et une génération procédurale. Je me suis occupé de cette dernière en utilisant un algorithme BSP pour faire une maison qui est différente à chaque nouvelle partie. J’ai suivi ce tutoriel tout en l’adaptant à notre jeu : [http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/](http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/)
 
 ### Créer les salles :
 Dans le tutoriel, le bsp était généré sans tilemap et s’affichait ensuite sur Unity. Pour notre jeu, il fallait que j’utilise deux tilemaps : une pour le sol (avec les couloirs) et une autre pour les murs.
@@ -62,5 +62,5 @@ Nous avons donc maintenant une maison qui se génère procéduralement, avec deu
 ![](https://eleonoradps.github.io/BlogPostTechnique/bpt10.PNG)
  
 ### Liens :
-Lien git du projet : https://github.com/eleonoradps/ItsMine
+Lien git du projet : [https://github.com/eleonoradps/ItsMine](https://github.com/eleonoradps/ItsMine)
 
