@@ -9,9 +9,11 @@ Lors d’un projet scolaire à la SAE pour le module GPR4400.2, nous devions, pa
 Dans le tutoriel, le bsp était généré sans tilemap et s’affichait ensuite sur Unity. Pour notre jeu, il fallait que j’utilise deux tilemaps : une pour le sol (avec les couloirs) et une autre pour les murs.
 J’ai instancié ces variables :
 
-![](BlogPostTechnique/bpt4.PNG)
+![](https://eleonoradps.github.io/BlogPostTechnique/bpt4.PNG)
  
 Puis je les ai utilisés dans une fonction pour dessiner les salles :
+
+![](https://eleonoradps.github.io/BlogPostTechnique/bpt3.PNG)
  
 Au lieu d’utiliser ce qui est en commentaire, j’ai utilisé le tilemap.SetTile avec g_Tile, où j'ai pu ensuite mettre la tile blanche sur l'inspecteur d'Unity, me donnant ce résultat:
  
