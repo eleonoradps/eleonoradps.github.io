@@ -15,5 +15,7 @@ Mon problème venait du fait que je multipliais une seule matrice au lieu de fai
 
 ![](https://eleonoradps.github.io/BlogpostMP/BlogpostTechMoteur2.PNG)
 
+### Conclusion :
 
+Ce module étant assez difficile pour moi, je n'ai pas vraiment beaucoup de choses à expliquer dans ce blogpost. Voici le lien du repository git dans lequel se trouve les quelques scripts que j'ai fait : [https://github.com/SAE-Geneva-919/physics-engine-2d-eleonoradps/tree/develop](https://github.com/SAE-Geneva-919/physics-engine-2d-eleonoradps/tree/develop)
 
