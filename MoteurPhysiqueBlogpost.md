@@ -7,6 +7,8 @@ Pour le dernier module GPR4400, nous devions implémenter des vecteurs, matrices
 
 ### Matrices :
 
+Lors de l'implémentation de multiplication de matrices, les tests m'indiquaient toujours une erreur et je ne comprenais pas quoi. Voici mon calcul de base :
+
 ![](https://eleonoradps.github.io/BlogpostMP/BlogpostTechMoteur.PNG)
 
 
