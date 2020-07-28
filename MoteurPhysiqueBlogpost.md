@@ -11,5 +11,9 @@ Lors de l'implémentation de multiplication de matrices, les tests m'indiquaient
 
 ![](https://eleonoradps.github.io/BlogpostMP/BlogpostTechMoteur.PNG)
 
+Mon problème venait du fait que je multipliais une seule matrice au lieu de faire matrice a * matrice b.
+
+![](https://eleonoradps.github.io/BlogpostMP/BlogpostTechMoteur2.PNG)
+
 
 
