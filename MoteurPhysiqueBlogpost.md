@@ -7,5 +7,7 @@ Pour le dernier module GPR4400, nous devions implémenter des vecteurs, matrices
 
 ### Matrices :
 
+![](https://eleonoradps.github.io/BlogpostMP/BlogpostTechMoteur.PNG)
+
 
 
