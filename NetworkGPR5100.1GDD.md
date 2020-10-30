@@ -8,6 +8,16 @@
 
 ## 2.Game Mechanics
 ### 2.1 3C (Character, Camera, Control)
-**Character**
+**Character:**
+- The two players are on the same map.
+- They have to move box by box.
+- There is an egg on each box.
+- Players can't be on the same box at the same time.
+- There is a point system which counts how many objects each player has destroyed.
+**Camera:**
+It is a fixed camera, and it shows both players playing the game.
+**Controls:**
+![](https://eleonoradps.github.io/GDDNetwork/NetworkGameplayOverview.PNG)
+
 
 
