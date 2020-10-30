@@ -14,8 +14,10 @@
 - There is an egg on each box.
 - Players can't be on the same box at the same time.
 - There is a point system which counts how many objects each player has destroyed.
+
 **Camera:**
 It is a fixed camera, and it shows both players playing the game.
+
 **Controls:**
 ![](https://eleonoradps.github.io/GDDNetwork/NetworkGameplayOverview.PNG)
 
