@@ -36,8 +36,9 @@ If one of the two players has a lower score than the other, they lose.
 
 If they both have the same score, it is a tie.
 
-## Coding language & Engine
+## 3.Coding language & Engine
 For this game, I am coding in C++ on Visual Studio and using the Neko Engine (https://github.com/EliasFarhan/NekoEngine).
+## 4.Challenges
 
 
 
