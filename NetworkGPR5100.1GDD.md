@@ -39,6 +39,10 @@ If they both have the same score, it is a tie.
 ## 3.Coding language & Engine
 For this game, I am coding in C++ on Visual Studio and using the Neko Engine (https://github.com/EliasFarhan/NekoEngine).
 ## 4.Challenges
+This game uses the rollback for real-time gameplay.
+
+The first challenge I have for this game is how my eggs are created when the game starts and how they are destroyed everytime a player moves on a tile so it shows the other player that the egg is gone. My other challenge is the fact that both players can't be on the same tile at the same time.
+
 
 
 
