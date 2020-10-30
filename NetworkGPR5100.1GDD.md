@@ -23,5 +23,15 @@ It is a fixed camera, and it shows both players playing the game.
 
 ![](https://eleonoradps.github.io/GDDNetwork/NetworkGameplayOverview.PNG)
 
+### 2.2 Win/Lose:
+**Win:**
+If one of the two players has a higher score than the other, they win.
+
+**Lose:**
+If one of the two players has a lower score than the other, they lose.
+
+**Tie:**
+If the both have the same score, it is a tie.
+
 
 
