@@ -6,3 +6,8 @@
 
 ![IMG_3046](https://user-images.githubusercontent.com/55788730/97707557-bef50c80-1ab7-11eb-9788-2dfc35017084.jpg)
 
+## 2.Game Mechanics
+### 2.1 3C (Character, Camera, Control)
+**Character**
+
+
