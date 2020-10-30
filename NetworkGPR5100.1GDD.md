@@ -1,4 +1,4 @@
-# Game Design Document
+# Game Design Document - Hunting Turtles
 ## 1.Introduction
 ### 1.1 Elevator Pitch
 "Hunting Turtles" is a two-player online Top-Down 2D game in which you play as a turtle and must get as much eggs as possible.
@@ -34,7 +34,7 @@ If one of the two players has a lower score than the other, they lose.
 
 **Tie:**
 
-If the both have the same score, it is a tie.
+If they both have the same score, it is a tie.
 
 
 
