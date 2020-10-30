@@ -16,6 +16,7 @@
 - There is a point system which counts how many objects each player has destroyed.
 
 **Camera:**
+
 It is a fixed camera, and it shows both players playing the game.
 
 **Controls:**
