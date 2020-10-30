@@ -10,9 +10,9 @@
 ### 2.1 3C (Character, Camera, Control)
 **Character:**
 - The two players are on the same map.
-- They have to move box by box.
-- There is an egg on each box.
-- Players can't be on the same box at the same time.
+- They have to move tile by tile.
+- There is an egg on each tile.
+- Players can't be on the same tile at the same time.
 - There is a point system which counts how many eggs each player picked up.
 
 **Camera:**
