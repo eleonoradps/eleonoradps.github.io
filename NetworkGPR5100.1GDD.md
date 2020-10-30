@@ -19,6 +19,7 @@
 It is a fixed camera, and it shows both players playing the game.
 
 **Controls:**
+
 ![](https://eleonoradps.github.io/GDDNetwork/NetworkGameplayOverview.PNG)
 
 
