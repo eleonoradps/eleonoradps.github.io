@@ -13,7 +13,7 @@
 - They have to move box by box.
 - There is an egg on each box.
 - Players can't be on the same box at the same time.
-- There is a point system which counts how many objects each player has destroyed.
+- There is a point system which counts how many eggs each player picked up.
 
 **Camera:**
 
@@ -25,12 +25,15 @@ It is a fixed camera, and it shows both players playing the game.
 
 ### 2.2 Win/Lose:
 **Win:**
+
 If one of the two players has a higher score than the other, they win.
 
 **Lose:**
+
 If one of the two players has a lower score than the other, they lose.
 
 **Tie:**
+
 If the both have the same score, it is a tie.
 
 
