@@ -14,6 +14,9 @@
 - There is an egg on each tile.
 - Players can't be on the same tile at the same time.
 - There is a point system which counts how many eggs each player picked up.
+- It takes one second for the player to move to another tile.
+- The game ends when there are no more eggs.
+- 
 
 **Camera:**
 
