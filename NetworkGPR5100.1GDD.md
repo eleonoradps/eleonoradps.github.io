@@ -16,7 +16,6 @@
 - There is a point system which counts how many eggs each player picked up.
 - It takes one second for the player to move to another tile.
 - The game ends when there are no more eggs.
-- 
 
 **Camera:**
 
