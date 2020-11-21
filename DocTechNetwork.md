@@ -9,7 +9,11 @@ Hunting Turtles is a two-player online Top-Down 2D game in which you play as a t
 
 That was my idea. However, I went through some troubles and as I kept on losing time trying to make things work, I decided to remove the tile by tile movement from the game.
 
-## First Bug
+## Spawning Eggs
+
+The first bug I had was when I wanted to spawn an egg. After doing some code I compiled the game and what happened was that my egg would spawn but disappear after the start game countdown :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug.PNG)
 
 
 
