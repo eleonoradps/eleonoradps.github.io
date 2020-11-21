@@ -23,6 +23,7 @@ After going through all the code again and asking for help from colleagues, we f
 
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug3.PNG)
 
+The problem was that BULLET and EGG had the same component ID, making my egg disappear when the game started after the countdown.
 
 
 
