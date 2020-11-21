@@ -19,6 +19,10 @@ But when that countdown was over, it would disappear :
 
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug2.PNG)
 
+After going through all the code again and asking for help from colleagues, we finally found the problem which was here :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug3.PNG)
+
 
 
 
