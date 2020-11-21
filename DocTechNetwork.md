@@ -9,6 +9,10 @@ Hunting Turtles is a two-player online Top-Down 2D game in which you play as a t
 
 That was my idea. However, I went through some troubles and as I kept on losing time trying to make things work, I decided to remove the tile by tile movement from the game.
 
+## First Bug
+
+
+
 
 
 
