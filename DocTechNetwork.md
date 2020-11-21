@@ -11,9 +11,13 @@ That was my idea. However, I went through some troubles and as I kept on losing 
 
 ## Spawning Eggs
 
-The first bug I had was when I wanted to spawn an egg. After doing some code I compiled the game and what happened was that my egg would spawn but disappear after the start game countdown :
+The first bug I had was when I wanted to spawn an egg. After doing some code I compiled the game and what happened was that my egg would spawn during the start game countdown :
 
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug.PNG)
+
+But when that countdown was over, it would disappear :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug2.PNG)
 
 
 
