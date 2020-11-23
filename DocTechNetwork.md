@@ -27,6 +27,16 @@ The problem was that BULLET and EGG had the same component ID, making my egg dis
 
 ## Stop the player from going out of the screen
 
+What I wanted to do was stop the player from going out of the screen and disappear. I implemented that code at first :
+
+player_character.h :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug.PNG)
+
+player_character.cpp :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug2.PNG)
+
 ## Picking up eggs, score & win
 
 My next problem was picking up eggs and making them count in the score. I was able to make the eggs disappear when the player went on them just fine, however, the score wouldn't update. That was due to the fact that there was health instead of score in the game. I only had to change the code from "health" to "score" and change a few lines of code.
