@@ -9,7 +9,7 @@ Hunting Turtles is a two-player online Top-Down 2D game in which you play as a t
 
 That was my idea. However, I went through some troubles and as I kept on losing time trying to make things work, I decided to remove the tile by tile movement from the game.
 
-## Spawning Eggs
+## Spawning eggs
 
 The first bug I had was when I wanted to spawn an egg. After doing some code I compiled the game and what happened was that my egg would spawn during the start game countdown :
 
@@ -24,6 +24,14 @@ After going through all the code again and asking for help from colleagues, we f
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/secondbug3.PNG)
 
 The problem was that BULLET and EGG had the same component ID, making my egg disappear when the game started after the countdown.
+
+## Picking up eggs, score & win
+
+My next problem was picking up eggs and making them count in the score. I was able to make the eggs disappear when the player went on them just fine, however, the score wouldn't update. That was due to the fact that there was health instead of score in the game. I only had to change the code from "health" to "score" and change a few lines of code.
+Here's the result :
+
+
+
 
 
 
