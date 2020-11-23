@@ -31,11 +31,11 @@ What I wanted to do was stop the player from going out of the screen and disappe
 
 player_character.h :
 
-![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug.PNG)
+![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug2.PNG)
 
 player_character.cpp :
 
-![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug2.PNG)
+![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug.PNG)
 
 ## Picking up eggs, score & win
 
