@@ -30,7 +30,7 @@ The problem was that BULLET and EGG had the same component ID, making my egg dis
 My next problem was picking up eggs and making them count in the score. I was able to make the eggs disappear when the player went on them just fine, however, the score wouldn't update. That was due to the fact that there was health instead of score in the game. I only had to change the code from "health" to "score" and change a few lines of code.
 Here's the result :
 
-![troisiemebug gif](https://user-images.githubusercontent.com/55788730/99969890-5c7feb00-2d9b-11eb-8cc1-14bfe481169d.gif)
+![cinquiemebug](https://user-images.githubusercontent.com/55788730/99970102-acf74880-2d9b-11eb-9501-1c56ca5da80c.gif)
 
 
 
