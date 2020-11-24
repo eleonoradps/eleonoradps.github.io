@@ -54,6 +54,8 @@ The other problem I had was that even though the player picked up all the eggs, 
 
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/septiemebug.PNG)
 
+In the gif below, player 1 is the red turtle and player 2 (online) is the blue turtle :
+
 ![septiemebug2](https://user-images.githubusercontent.com/55788730/100090285-40d81b80-2e53-11eb-920c-13c449de0148.gif)
 
 
