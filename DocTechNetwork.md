@@ -60,7 +60,7 @@ In the gif below, player 1 is the red turtle and player 2 (online) is the blue t
 
 ## Game
 
-Here's the game final visual :
+Here's the game's final visual :
 
 
 
