@@ -39,6 +39,7 @@ player_character.cpp :
 
 The problem here was that I didn't add the player's velocity in the condition to make him stop moving :
 
+![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug3.PNG)
 
 ## Picking up eggs, score & win
 
