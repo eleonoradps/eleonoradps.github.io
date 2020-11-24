@@ -48,6 +48,8 @@ Here's the result :
 
 ![cinquiemebug](https://user-images.githubusercontent.com/55788730/99970102-acf74880-2d9b-11eb-9501-1c56ca5da80c.gif)
 
+As you can see on the gif, the player disappears a little bit when he picks up the egg. I had to remove the player's invicibility in the OnCollision function.
+
 
 
 
