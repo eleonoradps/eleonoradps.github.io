@@ -62,6 +62,10 @@ In the gif below, player 1 is the red turtle and player 2 (online) is the blue t
 
 Here's the game's final visual :
 
+![](https://eleonoradps.github.io/DocTechNetworkNeko/gamefinallook.PNG)
+
+
+
 
 
 
