@@ -37,6 +37,9 @@ player_character.cpp :
 
 ![](https://eleonoradps.github.io/DocTechNetworkNeko/sixiemebug.PNG)
 
+The problem here was that I didn't add the player's velocity in the condition to make him stop moving :
+
+
 ## Picking up eggs, score & win
 
 My next problem was picking up eggs and making them count in the score. I was able to make the eggs disappear when the player went on them just fine, however, the score wouldn't update. That was due to the fact that there was health instead of score in the game. I only had to change the code from "health" to "score" and change a few lines of code.
