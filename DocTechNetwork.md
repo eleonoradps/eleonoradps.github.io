@@ -50,6 +50,12 @@ Here's the result :
 
 As you can see on the gif, the player disappears a little bit when he picks up the egg. I had to remove the player's invicibility in the OnCollision function.
 
+The other problem I had was that even though the player picked up all the eggs, the game wouldn't end and it wouldn't show who won. At first in my code, I wasn't checking the remaining eggs on the map as well as not saving each player's score and compare them to see who won the game. After trying out some things and asking for some help, it finally worked :
+
+![](https://eleonoradps.github.io/DocTechNetworkNeko/septiemebug.PNG)
+
+
+
 
 
 
