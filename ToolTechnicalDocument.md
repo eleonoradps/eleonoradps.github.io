@@ -35,7 +35,7 @@ Then you select the "Add Entity" option and you have now a new entity.
 
 ![](https://eleonoradps.github.io/BlogpostTool/UM10.PNG)
 
-And you can add as many entities as you want.
+You can add as many entities as you want.
 
 ![](https://eleonoradps.github.io/BlogpostTool/UM11.PNG)
 
