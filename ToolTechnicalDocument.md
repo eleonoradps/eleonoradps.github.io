@@ -1,7 +1,7 @@
 # Hierarchy window : Technical Document
 ## Context
 
-I had to make a hierarchy window tool for the AerRacers project of the 3rd years. I am using the Neko Engine and the tool is for the Neko Engine as well.
+I had to make a hierarchy window tool for the AerRacers project of the 3rd years. This tool is for the Neko Engine, which is a custom engine in c++, and I am using DearImGui to make it.
 
 ## Needs for the tool
 
