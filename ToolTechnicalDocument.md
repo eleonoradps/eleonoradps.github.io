@@ -17,13 +17,7 @@ The window is called Hierarchy and you can see each entity and their children.
 ### View and select entities
 To see an entity's children, you need to click on the arrow. When you do so, the entity you selected is highlighted.
 
-![](https://eleonoradps.github.io/BlogpostTool/UM5.PNG)
-
-![](https://eleonoradps.github.io/BlogpostTool/UM4.PNG)
-
-You can select children as well.
-
-![](https://eleonoradps.github.io/BlogpostTool/UM3.PNG)
+![BPTGif3](https://user-images.githubusercontent.com/55788730/104333817-f3426b80-54f1-11eb-9b6c-a09daadbf1ec.gif)
 
 ### Add/Delete entity
 
