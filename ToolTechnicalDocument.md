@@ -78,5 +78,12 @@ I had a few problems with making an entity selectable. No matter what I did, it 
 
 ![](https://eleonoradps.github.io/BlogpostTool/UM3.PNG)
 
+## Links
+
+**Engine** : Neko Engine [https://github.com/EliasFarhan/NekoEngine](https://github.com/EliasFarhan/NekoEngine).
+
+**Hierarchy branch in AerRacers Project** : [https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_prefabs](https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_prefabs).
+
+
 
 
