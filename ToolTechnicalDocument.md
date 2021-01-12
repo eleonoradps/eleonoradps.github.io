@@ -68,3 +68,15 @@ The other problem was being able to have a child of a child of a child etc. At f
 
 ### Select an entity
 
+I had a few problems with making an entity selectable. No matter what I did, it wouldn't show the entity being selected, or it would put a color on all entities. What I needed to do to make it work was to make sure the selected entity had a flag on it (because when I first tried making the entity selectable, I wasn't making sure that the entity was selected first before trying to show in the Hierarchy that it was).
+
+![](https://eleonoradps.github.io/BlogpostTool/BPT2.PNG)
+
+![](https://eleonoradps.github.io/BlogpostTool/BPT3.PNG)
+
+![](https://eleonoradps.github.io/BlogpostTool/UM4.PNG)
+
+![](https://eleonoradps.github.io/BlogpostTool/UM3.PNG)
+
+
+
