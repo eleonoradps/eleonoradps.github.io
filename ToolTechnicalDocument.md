@@ -41,6 +41,15 @@ You can add as many entities as you want.
 
 ## Encountered problems
 ### Show entities individually
+
+My first problem was showing each entity individually. What I had in the beginning was the Hierarchy showing the number of entities :
+
+![](https://eleonoradps.github.io/BlogpostTool/part1.PNG)
+
+With this code :
+
+![](https://eleonoradps.github.io/BlogpostTool/hierarchycpppart1.PNG)
+
 ### Show children and loop
 ### Select an entity
 
