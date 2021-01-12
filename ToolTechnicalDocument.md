@@ -60,7 +60,7 @@ The problem was solved by making a loop that gets all entities and shows them al
 
 ### Show children and loop
 
-The other problem was being able to have a child of a child of a child etc. At first the code was only able to check wether he was the child of the parent or not and show it in the Hierarchy. I made a DisplayChildren() function which makes it able to keep on having children with no limitations.
+The other problem was being able to have a child of a child of a child etc. At first the code was only able to check wether he was the child of the parent or not and show it in the Hierarchy. I made a DisplayChildren() function which makes it able to keep on having children with no limitations. The DisplayChildren() function is called in the DrawImGui() function.
 
 ![](https://eleonoradps.github.io/BlogpostTool/BPT1.PNG)
 
