@@ -46,9 +46,17 @@ My first problem was showing each entity individually. What I had in the beginni
 
 ![](https://eleonoradps.github.io/BlogpostTool/part1.PNG)
 
+Where entities were created in a Hierarchy test :
+
+![](https://eleonoradps.github.io/BlogpostTool/testhierarchypart1.PNG)
+
 With this code :
 
 ![](https://eleonoradps.github.io/BlogpostTool/hierarchycpppart1.PNG)
+
+The problem was solved by making a loop that gets all entities and shows them all individually with a number.
+
+![](https://eleonoradps.github.io/BlogpostTool/BPT.PNG)
 
 ### Show children and loop
 ### Select an entity
