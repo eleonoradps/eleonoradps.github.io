@@ -64,5 +64,7 @@ The other problem was being able to have a child of a child of a child etc. At f
 
 ![](https://eleonoradps.github.io/BlogpostTool/BPT1.PNG)
 
+![](https://eleonoradps.github.io/BlogpostTool/UM3.PNG)
+
 ### Select an entity
 
