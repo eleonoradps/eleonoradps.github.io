@@ -27,17 +27,17 @@ You can select children as well.
 
 ### Add/Delete entity
 
-To add an entity, you need to make a right click in the Hierarchy window.
+To add an entity, you need to make a right click in the Hierarchy window, then you select the "Add Entity" option and you have now a new entity.
 
-![](https://eleonoradps.github.io/BlogpostTool/UM9.PNG)
-
-Then you select the "Add Entity" option and you have now a new entity.
-
-![](https://eleonoradps.github.io/BlogpostTool/UM10.PNG)
+![BPTGif2](https://user-images.githubusercontent.com/55788730/104333030-14568c80-54f1-11eb-81fd-e22472fbff46.gif)
 
 You can add as many entities as you want.
 
 ![](https://eleonoradps.github.io/BlogpostTool/UM11.PNG)
+
+To delete an entity, you need to select it, right click, then click on the "Delete Entity" option.
+
+![BPTGif](https://user-images.githubusercontent.com/55788730/104333165-394aff80-54f1-11eb-9d46-02f37d35d17f.gif)
 
 ## Encountered problems
 ### Show entities individually
