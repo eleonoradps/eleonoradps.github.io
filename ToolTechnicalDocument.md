@@ -78,6 +78,14 @@ To make a menu appear when you right click, I used the ImGui::BeginPopupContextI
 
 ### Drag and drop entity
 
+For this, you need to register your entity in payload using ImGui::SetDragDropPayLoad().
+
+![implementationBPT7](https://user-images.githubusercontent.com/55788730/107047723-6cb73c00-67c8-11eb-922e-2cc61371aa47.PNG)
+
+And you write a condition when you drop your entities on a parent.
+
+![implementationBPT8](https://user-images.githubusercontent.com/55788730/107048385-2dd5b600-67c9-11eb-8f5a-754b4df8fdc4.PNG)
+
 ## Encountered problems
 ### Show entities individually
 
