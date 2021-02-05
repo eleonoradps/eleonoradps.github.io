@@ -72,8 +72,11 @@ What we want is that there is no arrow if there is no child.
 
 ### Add and Delete entities menu
 
+To make a menu appear when you right click, I used the ImGui::BeginPopupContextItem(). Then, in the if condition,  you use ImGui::MenuItem("") and put the name of your option in the quotation marks. For each option (here add and delete entity) you create/destroy your entity depending on the one you click in the menu.
 
+![implementationBPT6](https://user-images.githubusercontent.com/55788730/107046477-f5cd7380-67c6-11eb-95f4-54dd67c63c29.PNG)
 
+### Drag and drop entity
 
 ## Encountered problems
 ### Show entities individually
