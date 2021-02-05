@@ -40,6 +40,40 @@ To drag and drop an entity, you need to left click on the entity of your choice 
 ![BPTGif4](https://user-images.githubusercontent.com/55788730/107029753-db3bd000-67af-11eb-8e4e-8e7d44e1b21a.gif)
 
 ## Implementation
+### Show window
+
+First, in order to have a window for our Hierarchy we need to show it in the editor with the DrawImGui function.
+
+![implementationBPT](https://user-images.githubusercontent.com/55788730/107040882-180fc300-67c0-11eb-8a80-294ed0a2c30e.PNG)
+
+### Show entities
+
+To show our entities, we use a string for the Entity text and add a number to differenciate them.
+
+![implementationBPT2](https://user-images.githubusercontent.com/55788730/107042371-f57ea980-67c1-11eb-87c8-404d2f56d6a1.PNG)
+
+![implementationBPT3](https://user-images.githubusercontent.com/55788730/107042635-45f60700-67c2-11eb-9f25-b0c2b6e04125.PNG)
+
+### Display children
+
+Now, we need to display their children. For this, you make a loop that checks all entities. After that, if the entity is a child of the entity you're checking, you display it in the Hierarchy.
+
+![implementationBPT4](https://user-images.githubusercontent.com/55788730/107043010-b2710600-67c2-11eb-9842-02d866d79f6f.PNG)
+
+However, when you do that there's a new problem. In the Hierarchy, there will be arrows on all entities, even those that don't have a child.
+
+![UM3](https://user-images.githubusercontent.com/55788730/107043353-2d3a2100-67c3-11eb-9069-af4009641664.PNG)
+
+What we want is that there is no arrow if there is no child.
+
+![implementationBPT5](https://user-images.githubusercontent.com/55788730/107043625-915ce500-67c3-11eb-94c4-3f8d14fedf4e.PNG)
+
+![googledocsUM10](https://user-images.githubusercontent.com/55788730/107043874-dd0f8e80-67c3-11eb-9d75-954ad058a0ba.PNG)
+
+### Add and Delete entities menu
+
+
+
 
 ## Encountered problems
 ### Show entities individually
