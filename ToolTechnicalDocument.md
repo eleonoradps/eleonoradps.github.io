@@ -17,21 +17,21 @@ The window is called Hierarchy and you can see each entity and their children.
 ### View and select entities
 To see an entity's children, you need to click on the arrow. When you do so, the entity you selected is highlighted.
 
-![BPTGif3](https://user-images.githubusercontent.com/55788730/104333817-f3426b80-54f1-11eb-9b6c-a09daadbf1ec.gif)
+![BPTGif5](https://user-images.githubusercontent.com/55788730/107032555-50a99f80-67b4-11eb-9495-9e9bd6adb633.gif)
 
 ### Add/Delete entity
 
 To add an entity, you need to make a right click in the Hierarchy window, then you select the "Add Entity" option and you have now a new entity.
 
-![BPTGif2](https://user-images.githubusercontent.com/55788730/104333030-14568c80-54f1-11eb-81fd-e22472fbff46.gif)
+![BPTGif6](https://user-images.githubusercontent.com/55788730/107032662-733bb880-67b4-11eb-9583-319ca62abf84.gif)
 
 You can add as many entities as you want.
 
-![](https://eleonoradps.github.io/BlogpostTool/UM11.PNG)
+![](https://eleonoradps.github.io/BlogpostTool/googledocsUM7.PNG)
 
 To delete an entity, you need to select it, right click, then click on the "Delete Entity" option.
 
-![BPTGif](https://user-images.githubusercontent.com/55788730/104333165-394aff80-54f1-11eb-9d46-02f37d35d17f.gif)
+![BPTGif7](https://user-images.githubusercontent.com/55788730/107035028-d9760a80-67b7-11eb-8c8c-9c0df6dc8027.gif)
 
 ### Drag and Drop entity
 
