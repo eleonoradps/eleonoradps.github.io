@@ -125,6 +125,10 @@ I had a few problems with making an entity selectable. No matter what I did, it 
 
 ![](https://eleonoradps.github.io/BlogpostTool/UM3.PNG)
 
+## Conclusion
+
+To conclude, this project was interesting because it was the first time I was working for another group's project and joining during development. It also made me realise the pressure you have when you work for someone else, people are counting on you and your work. Overall, it was a great experience.
+
 ## Links
 
 **Engine** : Neko Engine [https://github.com/EliasFarhan/NekoEngine](https://github.com/EliasFarhan/NekoEngine).
