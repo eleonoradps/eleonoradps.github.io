@@ -11,7 +11,7 @@ The hierarchy needs to be able to view entities, their children, select an entit
 
 The window is called Hierarchy and you can see each entity and their children.
 
-![](https://eleonoradps.github.io/BlogpostTool/UM4.PNG)
+![](https://eleonoradps.github.io/BlogpostTool/googledocsUM1.PNG)
 
 ## Description
 ### View and select entities
