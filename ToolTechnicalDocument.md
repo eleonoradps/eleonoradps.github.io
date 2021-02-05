@@ -33,6 +33,14 @@ To delete an entity, you need to select it, right click, then click on the "Dele
 
 ![BPTGif](https://user-images.githubusercontent.com/55788730/104333165-394aff80-54f1-11eb-9d46-02f37d35d17f.gif)
 
+### Drag and Drop entity
+
+To drag and drop an entity, you need to left click on the entity of your choice and hold the mouse button down. Then you drag it over the entity of your choice and release the left mouse button. Entity 7 is now a child of Entity 6.
+
+![BPTGif4](https://user-images.githubusercontent.com/55788730/107029753-db3bd000-67af-11eb-8e4e-8e7d44e1b21a.gif)
+
+## Implementation
+
 ## Encountered problems
 ### Show entities individually
 
