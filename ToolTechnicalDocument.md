@@ -133,7 +133,7 @@ To conclude, this project was interesting because it was the first time I was wo
 
 **Engine** : Neko Engine [https://github.com/EliasFarhan/NekoEngine](https://github.com/EliasFarhan/NekoEngine).
 
-**Hierarchy branch in AerRacers Project** : [https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_prefabs](https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_prefabs).
+**Hierarchy branch in AerRacers Project** : [https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_hot_fix](https://github.com/SAE-Institute-Geneva/AerRacers/tree/tool/engine/inspector_hierarchy_hot_fix).
 
 
 
