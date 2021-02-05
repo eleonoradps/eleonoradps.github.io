@@ -21,7 +21,7 @@ To see an entity's children, you need to click on the arrow. When you do so, the
 
 ### Add/Delete entity
 
-To add an entity, you need to make a right click in the Hierarchy window, then you select the "Add Entity" option and you have now a new entity.
+To add an entity, you need to make a right click near an entity in the Hierarchy window, then you select the "Add Entity" option and you have now a new entity.
 
 ![BPTGif6](https://user-images.githubusercontent.com/55788730/107032662-733bb880-67b4-11eb-9583-319ca62abf84.gif)
 
