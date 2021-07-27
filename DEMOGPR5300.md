@@ -78,6 +78,47 @@ and we know it works because if we put this line instead of the other one in our
 ![framebuffer9](https://user-images.githubusercontent.com/55788730/127170043-cd059b1c-b184-4161-9c0b-360cd31e8f2c.PNG)
 
 
-## Directional Map
+## Directional Light & Normal Map
+
+For the directional light we don't need any position because it lights the whole scene. Since I had shaders for both my directional light and my normal map, I decided to make a "mix" of the two in the normal map vertex and fragment shaders.
+
+I had first encountered a bug where my normal map texture would show in Render Doc but the whole scene was dark as if there wasn't any light.
+
+![normalmapbug3](https://user-images.githubusercontent.com/55788730/127172126-7524817f-8df8-46b6-b637-12f8f3cbff38.PNG)
+
+![normalmapbug2](https://user-images.githubusercontent.com/55788730/127171176-2f9cf409-9e89-4ead-929b-34ac3dee6df0.PNG)
+
+The problem came from this line in the fragment shader with the diffuse light : 
+
+![nmbug](https://user-images.githubusercontent.com/55788730/127171763-6a881cd5-d717-4a35-bbde-179147c37a8a.PNG)
+
+Instead of TangentLightPos - TangentFragPos I only needed to change it to -TangentLightPos :
+
+![nmbug2](https://user-images.githubusercontent.com/55788730/127172036-f75d923e-124e-4dc9-b038-ea7d3bb53830.PNG)
+
+Here's the normal map + directional light vertex shader : 
+
+![nmvert](https://user-images.githubusercontent.com/55788730/127173079-46d547b1-a699-4a2a-ac7f-99372130b40b.PNG)
+
+Here's the normal map + directional map fragment shader :
+
+![nmfrag](https://user-images.githubusercontent.com/55788730/127173221-f12cf465-52cc-4a82-befb-dfe2d87e512b.PNG)
+
+![nmfrag2](https://user-images.githubusercontent.com/55788730/127173258-89177f25-08f4-41d9-ace9-2e1d4fe72d33.PNG)
+
+And then my scene had a light with some shadows and the normal texture.
+
+![finalscene](https://user-images.githubusercontent.com/55788730/127172668-dd96b5cb-3110-468e-a279-0f2da8bb3e84.PNG)
+
+
+
+
+
+
+
+
+
+
+
 
 
