@@ -82,6 +82,12 @@ and we know it works because if we put this line instead of the other one in our
 
 For the directional light we don't need any position because it lights the whole scene. Since I had shaders for both my directional light and my normal map, I decided to make a "mix" of the two in the normal map vertex and fragment shaders.
 
+I followed LearnOpenGl tutorials to make the directional light and the normal map :
+
+[https://learnopengl.com/Lighting/Light-casters](https://learnopengl.com/Lighting/Light-casters)
+
+[https://learnopengl.com/Advanced-Lighting/Normal-Mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
+
 I had first encountered a bug where my normal map texture would show in Render Doc but the whole scene was dark as if there wasn't any light.
 
 ![normalmapbug3](https://user-images.githubusercontent.com/55788730/127172126-7524817f-8df8-46b6-b637-12f8f3cbff38.PNG)
