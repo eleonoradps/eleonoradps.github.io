@@ -124,15 +124,9 @@ Here's the final look with the camera moving in the scene :
 
 ## Conclusion
 
+To conclude, I honestly liked this module and learning about OpenGL. Unfortunately I couldn't do as much as I wanted and work on all the other samples because I had to take care of my grandmother whose health worsened these last few months. I will probably keep on trying to work on the samples after this module to keep on learning about OpenGL and computer graphics.
 
 
+## Links
 
-
-
-
-
-
-
-
-
-
+My repository : [https://github.com/eleonoradps/DEMOGPR5300](https://github.com/eleonoradps/DEMOGPR5300)
