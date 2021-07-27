@@ -116,6 +116,14 @@ And then my scene had a light with some shadows and the normal texture.
 
 ![finalscene](https://user-images.githubusercontent.com/55788730/127172668-dd96b5cb-3110-468e-a279-0f2da8bb3e84.PNG)
 
+## Final Look
+
+Here's the final look with the camera moving in the scene :
+
+![finallook2](https://user-images.githubusercontent.com/55788730/127174587-48776ea1-bac3-44ae-ba6b-c96a06c7dd79.gif)
+
+## Conclusion
+
 
 
 
