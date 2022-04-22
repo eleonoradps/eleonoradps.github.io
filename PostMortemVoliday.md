@@ -113,3 +113,5 @@ I am overall glad to have been part of this project, as I’ve learned a lot abo
 
 In the end, I am proud of what we were able to do.
 
+Here is the link of the release of the game if you'd like to play it : [https://volcanoteam.itch.io/voliday](https://volcanoteam.itch.io/voliday).
+
