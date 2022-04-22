@@ -145,6 +145,8 @@ Even though I didn’t have the opportunity to use Perforce as I wanted to, I le
 
 To conclude, I have learned a lot about the specific role of being a DevOps in a team and what it takes. However, if I had to do it again, I would probably choose another role. I do not feel like this kind of job is made for me. Although it was a good first experience, I do not feel like I am the kind of person cut out for it. To me, it felt confusing and you need to be an organised type of person to be able to organise others and give structure in a team, which is something that I lack.
 
+Here is the link of the release of the game if you'd like to play it : [https://volcanoteam.itch.io/voliday](https://volcanoteam.itch.io/voliday)
+
 
 
 
