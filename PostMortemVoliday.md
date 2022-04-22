@@ -22,19 +22,19 @@ Team
 
 For this project, the Programmers team (my classmates and I) were a total of 7 people with each of us having a distinct role : 
 
-**Oleg Loshkin** : Project Manager, Gameplay Programmer
-**Solange Schmid** : Game Designer, Gameplay Programmer
-**William Pepin** : Producer, Gameplay Programmer
-**Marvin Scharding** : UI/UX Designer, Gameplay Programmer
-**Vincent Dworak** : Lead Programmer, Gameplay Programmer
-**Guillaume Jeannin** : R’n’D, Gameplay Programmer
-**Lorna Dupuis** : DevOps, Gameplay Programmer
+**Oleg Loshkin** : Project Manager, Gameplay Programmer,
+**Solange Schmid** : Game Designer, Gameplay Programmer,
+**William Pepin** : Producer, Gameplay Programmer,
+**Marvin Scharding** : UI/UX Designer, Gameplay Programmer,
+**Vincent Dworak** : Lead Programmer, Gameplay Programmer,
+**Guillaume Jeannin** : R’n’D, Gameplay Programmer, 
+and I **Lorna Dupuis** : DevOps, Gameplay Programmer
 
 Including us, we were in total 39 people on this project :
-4 Stakeholders
-6 Mentors
-7 Gameplay Programmers
-7 Tool Programmers
+4 Stakeholders,
+6 Mentors,
+7 Gameplay Programmers,
+7 Tool Programmers,
 and other people working in the game industry who helped us and gave feedback to our game.
 
 ## Project
