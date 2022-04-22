@@ -6,7 +6,8 @@
 ## Introduction
 
 This blogpost will focus on my experience as a DevOps for the first time in a game project. I will talk more precisely about my research, what I had to do, my thought process, difficulties encountered, my mistakes and what I learned.
-Context
+
+## Context
 
 During my final year in Games Programming at SAE Institute Geneva, my classmates and I were told that we had to work together as a team and make a game. This project lasted 8 months. 
 
@@ -124,9 +125,7 @@ Everytime someone makes a feature, they have to create a new branch with that sp
 
 When a feature was done and working, we would have to merge it into the main branch where all our work would be assembled together, called “prototype_gameplay”. We also used this branch as a way of recovering others’ work and use it if needed for our respective tasks.
 
-
-
-Difficulties encountered and my mistakes
+## Difficulties encountered and my mistakes
 
 In this project, I have made a lot of documentation on how to use GitLFS, the coding style, how to use Git and how to merge, but I quickly realised that nobody read it at all. Some team members weren’t doing the merges correctly or making comments and cleaning the code, everyone was doing things in their own way. At that point, I decided to make a presentation on how to use Git and its commands, as well as how they should be working on Unreal Engine. 
 
@@ -136,14 +135,13 @@ My mistakes were probably that I was a bit too trusting of the people I worked w
 
 As DevOps, I was supposed to take care of Perforce, and at the time, it really was something I wanted to do because it was an opportunity for me to learn more about it and broaden my skills. However, a team member was really anxious about us being late in our tasks for the game, and decided to replace me and take care of Perforce without telling me about it.
 
-
-What I learned
+## What I learned
 
 What I learned from this experience as DevOps is that it’s difficult to put that kind of technical organisation in place. I was often lost and didn't know what to do and how to do it. Considering that I experienced this while being on a small student project, I cannot imagine how difficult it would be to be a DevOps in a bigger company. I feel like it’s a challenging role for yourself, because you have to be meticulous and organised, and how you deal with others as well.
 
 Even though I didn’t have the opportunity to use Perforce as I wanted to, I learned more about what it takes to organise a project on a technical aspect.
 
-Conclusion
+## Conclusion
 
 To conclude, I have learned a lot about the specific role of being a DevOps in a team and what it takes. However, if I had to do it again, I would probably choose another role. I do not feel like this kind of job is made for me. Although it was a good first experience, I do not feel like I am the kind of person cut out for it. To me, it felt confusing and you need to be an organised type of person to be able to organise others and give structure in a team, which is something that I lack.
 
