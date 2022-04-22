@@ -27,7 +27,7 @@ For this project, the Programmers team (my classmates and I) were a total of 7 p
 - Solange Schmid : Game Designer, Gameplay Programmer
 - William Pepin : Producer, Gameplay Programmer
 - Marvin Scharding : UI/UX Designer, Gameplay Programmer
-- Vincent Dworak** : Lead Programmer, Gameplay Programmer
+- Vincent Dworak : Lead Programmer, Gameplay Programmer
 - Guillaume Jeannin : R’n’D, Gameplay Programmer
 - and I Lorna Dupuis : DevOps, Gameplay Programmer
 
